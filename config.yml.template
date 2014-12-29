@@ -1,0 +1,6 @@
+chatwork:
+  token: xxx
+  bot_id: xxx
+  room_id: xxx
+docomo:
+  api_key: xxx
